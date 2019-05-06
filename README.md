@@ -55,8 +55,9 @@ Espña. De esta forma, se aplicaría el sistema de reparto d’Hont para los
 votos de los diferentes partidos obtenidos en toda España. El parlamento
 quedaría formado de la siguiente manera.
 
-![](elecciones_md_files/figure-markdown_github/unnamed-chunk-5-1.png) En
-forma de gráfico de barras
+![](elecciones_md_files/figure-markdown_github/unnamed-chunk-5-1.png)
+
+En forma de gráfico de barras
 
 ![](elecciones_md_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
@@ -113,10 +114,11 @@ El parlamento quedaría configurado de la siguiente manera:
 
 
 ![](elecciones_md_files/figure-markdown_github/unnamed-chunk-10-1.png)
+
 En forma de gráfico de barras
 
 
 
 ![](elecciones_md_files/figure-markdown_github/unnamed-chunk-11-1.png)
 
-**Código utilizados para la generación de los gráficos en [](https://github.com/chrglez/elecciones2019/blob/master/elecciones.Rmd)**
+**Código utilizados para la generación de los gráficos en [https://github.com/chrglez/elecciones2019/blob/master/elecciones.Rmd](https://github.com/chrglez/elecciones2019/blob/master/elecciones.Rmd)**
