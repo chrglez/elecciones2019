@@ -3,11 +3,11 @@ para elegir los representantes al congreso y senado de la XII
 legislatura. Los miembros del congreso se eligen mediante un sistema de
 representación proporcional. El número actual de representantes es de
 350 diputados \[[Ley Orgánica del Régimen Electoral
-General](https://es.wikipedia.org/wiki/Legislaci%C3%B3n_electoral_espa%C3%B1ola)\]
+General](https://es.wikipedia.org/wiki/Legislaci%C3%B3n_electoral_espa%C3%B1ola)\]
 
 Existen 52 circunscripciones electorales para el Congreso de los
 Diputados, que se corresponden con las cincuenta provincias españolas
-más las ciudades autónomas de Ceuta y Melilla. Según la ley electoral
+más las ciudades autónomas de Ceuta y Melilla. Según la ley electoral
 española cada provincia tiene garantizado un mínimo de partida de dos
 escaños y las ciudades autónomas de Ceuta y Melilla, uno cada una de
 ellas. Los otros 248 diputados se asignan de forma proporcional a la
@@ -110,13 +110,11 @@ El mapa electoral de España quedaría dibujado de la siguiente manera:
 
 El parlamento quedaría configurado de la siguiente manera:
 
-    ## Warning: Column `seats_short`/`party_short` joining factor and character
-    ## vector, coercing into character vector
+
 
 ![](elecciones_md_files/figure-markdown_github/unnamed-chunk-10-1.png)
 En forma de gráfico de barras
 
-    ## Warning: Column `seats_short`/`party_short` joining factor and character
-    ## vector, coercing into character vector
+
 
 ![](elecciones_md_files/figure-markdown_github/unnamed-chunk-11-1.png)
