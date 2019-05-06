@@ -118,3 +118,5 @@ En forma de gráfico de barras
 
 
 ![](elecciones_md_files/figure-markdown_github/unnamed-chunk-11-1.png)
+
+**Código utilizados para la generación de los gráficos en ![](https://github.com/chrglez/elecciones2019/blob/master/elecciones.Rmd)**
