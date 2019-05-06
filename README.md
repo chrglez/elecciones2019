@@ -59,7 +59,8 @@ quedaría formado de la siguiente manera.
 forma de gráfico de barras
 
 ![](elecciones_md_files/figure-markdown_github/unnamed-chunk-6-1.png)
-\#\# Sistema de elecciones presidenciales en los Estados Unidos.
+
+## Sistema de elecciones presidenciales en los Estados Unidos.
 
 Hay que recordar que en las elecciones generales en España los electores
 no eligen presidente sino representantes para el Congreso y el Senado.
